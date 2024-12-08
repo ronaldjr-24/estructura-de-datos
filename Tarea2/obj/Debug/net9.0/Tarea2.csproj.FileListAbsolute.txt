@@ -1,0 +1,14 @@
+C:\estructura de datos\Tarea2\bin\Debug\net9.0\Tarea2.exe
+C:\estructura de datos\Tarea2\bin\Debug\net9.0\Tarea2.deps.json
+C:\estructura de datos\Tarea2\bin\Debug\net9.0\Tarea2.runtimeconfig.json
+C:\estructura de datos\Tarea2\bin\Debug\net9.0\Tarea2.dll
+C:\estructura de datos\Tarea2\bin\Debug\net9.0\Tarea2.pdb
+C:\estructura de datos\Tarea2\obj\Debug\net9.0\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\estructura de datos\Tarea2\obj\Debug\net9.0\Tarea2.AssemblyInfoInputs.cache
+C:\estructura de datos\Tarea2\obj\Debug\net9.0\Tarea2.AssemblyInfo.cs
+C:\estructura de datos\Tarea2\obj\Debug\net9.0\Tarea2.csproj.CoreCompileInputs.cache
+C:\estructura de datos\Tarea2\obj\Debug\net9.0\Tarea2.dll
+C:\estructura de datos\Tarea2\obj\Debug\net9.0\refint\Tarea2.dll
+C:\estructura de datos\Tarea2\obj\Debug\net9.0\Tarea2.pdb
+C:\estructura de datos\Tarea2\obj\Debug\net9.0\Tarea2.genruntimeconfig.cache
+C:\estructura de datos\Tarea2\obj\Debug\net9.0\ref\Tarea2.dll
