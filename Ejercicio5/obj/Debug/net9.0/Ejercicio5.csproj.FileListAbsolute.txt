@@ -1,0 +1,15 @@
+C:\estructura de datos\Ejercicio5\bin\Debug\net9.0\Ejercicio5.exe
+C:\estructura de datos\Ejercicio5\bin\Debug\net9.0\Ejercicio5.deps.json
+C:\estructura de datos\Ejercicio5\bin\Debug\net9.0\Ejercicio5.runtimeconfig.json
+C:\estructura de datos\Ejercicio5\bin\Debug\net9.0\Ejercicio5.dll
+C:\estructura de datos\Ejercicio5\bin\Debug\net9.0\Ejercicio5.pdb
+C:\estructura de datos\Ejercicio5\obj\Debug\net9.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\estructura de datos\Ejercicio5\obj\Debug\net9.0\Ejercicio5.AssemblyInfoInputs.cache
+C:\estructura de datos\Ejercicio5\obj\Debug\net9.0\Ejercicio5.AssemblyInfo.cs
+C:\estructura de datos\Ejercicio5\obj\Debug\net9.0\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\estructura de datos\Ejercicio5\obj\Debug\net9.0\Ejercicio5.sourcelink.json
+C:\estructura de datos\Ejercicio5\obj\Debug\net9.0\Ejercicio5.dll
+C:\estructura de datos\Ejercicio5\obj\Debug\net9.0\refint\Ejercicio5.dll
+C:\estructura de datos\Ejercicio5\obj\Debug\net9.0\Ejercicio5.pdb
+C:\estructura de datos\Ejercicio5\obj\Debug\net9.0\Ejercicio5.genruntimeconfig.cache
+C:\estructura de datos\Ejercicio5\obj\Debug\net9.0\ref\Ejercicio5.dll
