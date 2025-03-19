@@ -1,0 +1,15 @@
+C:\estructura de datos\Recuperacion_10\bin\Debug\net9.0\Recuperacion_10.exe
+C:\estructura de datos\Recuperacion_10\bin\Debug\net9.0\Recuperacion_10.deps.json
+C:\estructura de datos\Recuperacion_10\bin\Debug\net9.0\Recuperacion_10.runtimeconfig.json
+C:\estructura de datos\Recuperacion_10\bin\Debug\net9.0\Recuperacion_10.dll
+C:\estructura de datos\Recuperacion_10\bin\Debug\net9.0\Recuperacion_10.pdb
+C:\estructura de datos\Recuperacion_10\obj\Debug\net9.0\Recuperacion_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\estructura de datos\Recuperacion_10\obj\Debug\net9.0\Recuperacion_10.AssemblyInfoInputs.cache
+C:\estructura de datos\Recuperacion_10\obj\Debug\net9.0\Recuperacion_10.AssemblyInfo.cs
+C:\estructura de datos\Recuperacion_10\obj\Debug\net9.0\Recuperacion_10.csproj.CoreCompileInputs.cache
+C:\estructura de datos\Recuperacion_10\obj\Debug\net9.0\Recuperacion_10.sourcelink.json
+C:\estructura de datos\Recuperacion_10\obj\Debug\net9.0\Recuperacion_10.dll
+C:\estructura de datos\Recuperacion_10\obj\Debug\net9.0\refint\Recuperacion_10.dll
+C:\estructura de datos\Recuperacion_10\obj\Debug\net9.0\Recuperacion_10.pdb
+C:\estructura de datos\Recuperacion_10\obj\Debug\net9.0\Recuperacion_10.genruntimeconfig.cache
+C:\estructura de datos\Recuperacion_10\obj\Debug\net9.0\ref\Recuperacion_10.dll
