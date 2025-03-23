@@ -1,0 +1,15 @@
+C:\estructura de datos\semana14\bin\Debug\net9.0\semana14.exe
+C:\estructura de datos\semana14\bin\Debug\net9.0\semana14.deps.json
+C:\estructura de datos\semana14\bin\Debug\net9.0\semana14.runtimeconfig.json
+C:\estructura de datos\semana14\bin\Debug\net9.0\semana14.dll
+C:\estructura de datos\semana14\bin\Debug\net9.0\semana14.pdb
+C:\estructura de datos\semana14\obj\Debug\net9.0\semana14.GeneratedMSBuildEditorConfig.editorconfig
+C:\estructura de datos\semana14\obj\Debug\net9.0\semana14.AssemblyInfoInputs.cache
+C:\estructura de datos\semana14\obj\Debug\net9.0\semana14.AssemblyInfo.cs
+C:\estructura de datos\semana14\obj\Debug\net9.0\semana14.csproj.CoreCompileInputs.cache
+C:\estructura de datos\semana14\obj\Debug\net9.0\semana14.sourcelink.json
+C:\estructura de datos\semana14\obj\Debug\net9.0\semana14.dll
+C:\estructura de datos\semana14\obj\Debug\net9.0\refint\semana14.dll
+C:\estructura de datos\semana14\obj\Debug\net9.0\semana14.pdb
+C:\estructura de datos\semana14\obj\Debug\net9.0\semana14.genruntimeconfig.cache
+C:\estructura de datos\semana14\obj\Debug\net9.0\ref\semana14.dll
